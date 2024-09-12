@@ -42,3 +42,6 @@ b. Mostrar la información personal de una persona particular por medio de su po
 - Cada problema se debe solucionar usando el lenguaje JavaScript.
 - Si bien existen muchas formas posibles de resolver un problema se recomienda utilizar las estructuras que
 permitan el desarrollo de acciones de una manera simple y eficiente.
+
+# Links de Notion, para ver código comentado
+https://www.notion.so/JavaScript-bebf916f57534000a6de6c88e9fd4b2d
